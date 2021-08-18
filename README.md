@@ -55,6 +55,14 @@ Examples for the demo :
 
 => A hidden directory should be added: ".repo"
 
+![alt meteo](/imgs/00_linkXml.png)
+
 Synchronise the repositories inside the manifests :
 
 > repo sync
+
+![alt meteo](/imgs/01_syncro.png)
+
+## Some advice
+
+You can load all linked git in specific directories so they can be easily gitignored. For this example, it would be the "tools" directory.
