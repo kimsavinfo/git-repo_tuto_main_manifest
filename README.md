@@ -31,6 +31,8 @@ Add default.xml in this repository's root.
 Configure default.xml : link to wanted respositories and set where to put them. In this case, the tools "Fizz" and "Buzz" are linked.
 Put in the tag "revision" the full commit hash.
 
+Please note the tag "revision" can accept a branch name like 'revision="features/branchA"', it will load the last commit of the branch.
+
 You can use the terminal to get the full commit hash
 
 > git log
