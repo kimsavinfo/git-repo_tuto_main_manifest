@@ -53,6 +53,8 @@ Examples for the demo :
 
 > repo init -u https://github.com/kimsavinfo/git-repo_tuto_main_manifest -m fizz.xml
 
+=> A hidden directory should be added: ".repo"
+
 Synchronise the repositories inside the manifests :
 
 > repo sync
