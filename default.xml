@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote fetch="https://github.com/kimsavinfo/" name="rootRepo" />
+
+    <project name="git-repo_tuto_fizz.git" path="./tools/Fizz" remote="rootRepo" revision="d9b0955db2aa8a3d807f90167b070161aba2c1fd"/>
+	<project name="git-repo_tuto_buzz.git.git" path="./tools/Buzz" remote="rootRepo" revision="8c54b64afc2dc89dedf434f7d59c6bf9017df9f9"/>
+
+</manifest>
