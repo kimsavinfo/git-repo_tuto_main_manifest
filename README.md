@@ -39,7 +39,7 @@ Push the default.xml when you are done.
 
 ## Link the xml manifest and synchroniser
 
-Create a projet: https://github.com/kimsavinfo/git-repo_tuto_myProject
+Create a projet: https://github.com/kimsavinfo/git-repo_tuto_myProject.
 
 Link the project with the wanted manifest (by default it's "default.xml") with :
 
