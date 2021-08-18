@@ -63,6 +63,3 @@ Synchronise the repositories inside the manifests :
 
 ![alt meteo](/imgs/01_syncro.png)
 
-## Some advice
-
-You can load all linked git in specific directories so they can be easily gitignored. For this example, it would be the "tools" directory.
